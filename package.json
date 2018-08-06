@@ -1,0 +1,19 @@
+{
+  "name": "vital-comments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/generator": "^7.0.0-beta.56",
+    "@babel/parser": "^7.0.0-beta.56",
+    "@babel/traverse": "^7.0.0-beta.56",
+    "babel-traverse": "^6.26.0",
+    "jest": "^23.4.2",
+    "prettier": "^1.14.0"
+  }
+}
